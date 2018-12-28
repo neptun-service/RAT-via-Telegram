@@ -38,7 +38,7 @@ from ctypes import * #fixing pyinstaller - we need to import all the ctypes to g
 cd.log('i','Starting')
 me = singleton.SingleInstance()
 # REPLACE THE LINE BELOW WITH THE TOKEN OF THE BOT YOU GENERATED!
-token = 'xx:xx'
+token = '794617265:AAHKR0gMla6CQK_lOCqhCNJVhjdnLUeee7o'
 # This will be used for setting paths and related file io -- change to whatever you want
 app_name = 'ABCdef123'
 # ADD YOUR chat_id in string format TO THE LIST BELOW IF YOU WANT YOUR BOT TO ONLY RESPOND TO ONE PERSON!
